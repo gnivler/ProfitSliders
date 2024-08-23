@@ -1,7 +1,9 @@
 Super easy to use:
 
-install BepInEx following the docs https://docs.bepinex.dev/articles/user_guide/installation/index.html
+unpack BepInEx to the game folder as in this install guide https://docs.bepinex.dev/articles/user_guide/installation/index.html
 
 then place the mod in the Dustland Delivery/BepInEX/plugins/ folder
 
-Now the trading sliders for caravans and cities will usually jump to where the profit against base value is the highest.
+Now when the game runs BepInEx also runs, and loads the mods. 
+
+The trading sliders for caravans and cities will usually jump to where the profit against base value is the highest.
